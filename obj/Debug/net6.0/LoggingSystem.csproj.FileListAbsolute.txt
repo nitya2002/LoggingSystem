@@ -1,0 +1,15 @@
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.csproj.AssemblyReference.cache
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.AssemblyInfoInputs.cache
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.AssemblyInfo.cs
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.csproj.CoreCompileInputs.cache
+D:\LoggingSystem\bin\Debug\net6.0\LoggingSystem.exe
+D:\LoggingSystem\bin\Debug\net6.0\LoggingSystem.deps.json
+D:\LoggingSystem\bin\Debug\net6.0\LoggingSystem.runtimeconfig.json
+D:\LoggingSystem\bin\Debug\net6.0\LoggingSystem.dll
+D:\LoggingSystem\bin\Debug\net6.0\LoggingSystem.pdb
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.dll
+D:\LoggingSystem\obj\Debug\net6.0\refint\LoggingSystem.dll
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.pdb
+D:\LoggingSystem\obj\Debug\net6.0\LoggingSystem.genruntimeconfig.cache
+D:\LoggingSystem\obj\Debug\net6.0\ref\LoggingSystem.dll
